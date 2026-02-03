@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">stream-monitor</string>
+    <string name="title_activity_main">stream-monitor</string>
+    <string name="package_name">com.stream.monitor</string>
+    <string name="custom_url_scheme">com.stream.monitor</string>
+    <string name="fab_add_description">Add new item</string>
+</resources>
